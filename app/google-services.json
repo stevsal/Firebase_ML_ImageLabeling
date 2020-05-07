@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086545562916",
+    "firebase_url": "https://iot-steven-1b0d2.firebaseio.com",
+    "project_id": "iot-steven-1b0d2",
+    "storage_bucket": "iot-steven-1b0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086545562916:android:1620b9625468b55907b7b1",
+        "android_client_info": {
+          "package_name": "com.example.image_labeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086545562916-v1s9l3b73a66nbufpidfavssj087gfe3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNOj5WaL3pE9SkoOoUXe_9Wa8TSqLdte0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086545562916-v1s9l3b73a66nbufpidfavssj087gfe3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
